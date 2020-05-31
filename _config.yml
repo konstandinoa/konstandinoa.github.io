@@ -16,7 +16,7 @@ resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: konstandinoa.github.io
+url: dean.a.postolopoulos.com
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
@@ -34,11 +34,12 @@ disqus:
   categories: [] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
+
 # twitter: mytwitter
 instagram: konstandino
 # pinterest: mypinterest
 linkedin: dapostolopoulos
+facebook: k.d.apostolopoulos
 # youtube: myyoutube
 # spotify: myspotify
 github: konstandinoa
@@ -57,8 +58,8 @@ authors:
     name: Dean Apostolopoulos
     bio: A passionate technologist with industry experience in marketplace operations and product management at high-growth tech startups. Solution-seeker and hypothesis-driven.
     external-image: false
-    picture: assets/images/profile.jpg
-    twitter: johndoe
+    picture: assets/images/profile.png
+    linkedin: dapostolopoulos
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
